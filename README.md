@@ -1,2 +1,2 @@
 # landingpage
-i'm alx
+landing page for my task managament app
